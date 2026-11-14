@@ -8,7 +8,7 @@ window.BDAY = {
   dateLabel: "A day made only for you",
 
   /* Drop photos in /photos named 1.jpg, 2.jpg, 3.jpg... */
-  photoCount: 8,
+  photoCount: 7,
   photoFolder: "photos",
   photoExt: "jpg",
 
